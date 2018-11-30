@@ -1,10 +1,35 @@
-h1 {
-    text-align: center;
-}
-    img { 
-    width: 30%;
-      margin-left:330px;
-      
-      
-}
+ h1  {
+       text-align: center;
+       margin-bottom: 5px;
     
+    }
+    
+    table {
+       margin: 5px;
+       width: 390px;
+    }
+    
+    th {
+       padding: 3px;
+      background-color: #ffffcc;
+    }
+    
+    td {
+       padding-left: 8px;
+       padding-right: 8px;
+       border: 1px solid #990000;
+       background-color: #ffffcc;
+    }
+    
+    #trHeader {
+       text-decoration: underline;
+       color: #990000;
+    }
+    
+    .centerCell {
+       text-align: center;
+    }
+  img { 
+    width: 60%;
+      margin-left:132px;
+      
